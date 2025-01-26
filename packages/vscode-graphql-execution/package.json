@@ -104,7 +104,7 @@
   "dependencies": {
     "@graphql-tools/code-file-loader": "8.0.3",
     "@urql/core": "2.6.1",
-    "@whatwg-node/fetch": "0.2.8",
+    "@whatwg-node/fetch": "0.6.3",
     "capitalize": "2.0.4",
     "cosmiconfig": "8.2.0",
     "cosmiconfig-toml-loader": "^1.0.0",
