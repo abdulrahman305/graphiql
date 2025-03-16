@@ -102,7 +102,7 @@
     "ovsx": "0.8.3"
   },
   "dependencies": {
-    "@graphql-tools/code-file-loader": "8.0.3",
+    "@graphql-tools/code-file-loader": "8.1.19",
     "@urql/core": "2.6.1",
     "@whatwg-node/fetch": "0.2.8",
     "capitalize": "2.0.4",
