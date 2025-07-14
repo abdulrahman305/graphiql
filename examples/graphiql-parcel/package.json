@@ -22,7 +22,7 @@
     ]
   },
   "dependencies": {
-    "graphiql": "^2.2.0",
+    "graphiql": "^5.0.0",
     "graphql": "^16.9.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
