@@ -111,7 +111,7 @@
     "eslint-plugin-unicorn": "^56.0.0",
     "execa": "^7.1.1",
     "fetch-mock": "6.5.2",
-    "jest": "^27.5.1",
+    "jest": "^30.0.0",
     "js-green-licenses": "4.0.0",
     "mkdirp": "^1.0.4",
     "patch-package": "^7.0.2",
